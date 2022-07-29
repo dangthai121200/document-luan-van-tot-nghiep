@@ -1,0 +1,23 @@
+- bình luận x mt
+- danh mục x mt
+- dơn hàng x mt
+- ds khuyến mãi x mt
+- giày x mt
+- hãng x mt
+- hình x mt
+- khách hàng x mt
+- khách vãng lại x mt
+- loại giày x mt
+- loại phụ kiên x mt
+- màu sắc x mt
+- nhân viên x mt
+- phụ kiện x mt
+- phương thức thành toán x mt
+- size x
+- Tài khoản x
+- số lượng phụ kiện x mt
+- số lượng giày x mt
+
+
+
+
